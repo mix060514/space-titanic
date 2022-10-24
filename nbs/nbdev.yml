@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "space-titanic"
+  site-url: "https://mix060514.github.io/space-titanic"
+  description: "Try connect nbdev with kaggle workflow"
+  repo-branch: main
+  repo-url: "https://github.com/mix060514/space-titanic"
